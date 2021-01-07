@@ -22,7 +22,7 @@ List of curated 3d Printing Mod / Build Videos
 | -------  | -------------------- | ---- | -------- |
 | Ender3   | Edge of Tech         | https://www.youtube.com/watch?v=GBe0rCSPlxc&list=PLVctiritf4zQhJeXFqaimrCKjhH9DPza1 | creality ender3
 |          | TeachingTech         | https://www.youtube.com/watch?v=rp3r921DBGI | e2e end-to-end tuning step-by-step
-| i3 Pro B | Chris's Basement     | https://www.youtube.com/watch?v=ouZQ-SKZDsc (1/3)<br> https://www.youtube.com/watch?v=D4oOZGvVTL8 (2/3)<br> https://www.youtube.com/watch?v=gn_5QKPj31E (3/3) | geeetech i3 i3prob
+| i3 Pro B | Chris's Basement     | https://www.youtube.com/watch?v=ouZQ-SKZDsc (1/4)<br> https://www.youtube.com/watch?v=D4oOZGvVTL8 (2/4)<br> https://www.youtube.com/watch?v=gn_5QKPj31E (3/4) <br> https://www.youtube.com/watch?v=gNfbpbmkdus (4/4) | geeetech i3 i3prob
 
 ---
 ## DYI projects

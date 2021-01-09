@@ -35,5 +35,7 @@ List of curated 3d Printing Mod / Build Videos
 ## Techniques
 | what | author               | link | keywords |
 | ---- | -------------------- | ---- | -------- |
-| Ender 3 X-grantry v-wheels adjustment and square | TH3D Studio | https://youtu.be/8ZRwFemsKeo?t=722 (starts 12:02) | creality ender3 x-grantry v-wheels tension
-
+| Ender 3 X-grantry v-wheels adjustment and square | TH3D Studio       | https://youtu.be/8ZRwFemsKeo?t=722 (starts 12:02)  | creality ender3 x-grantry v-wheels tension
+| Tuning Stepper VRef (embedded driver)            | TH3D Studio       | https://youtu.be/pJRYXKRAUN4?t=132 (starts 2:12)   | creality cr10 vref stepper motor embedded driver
+| Tuning Stepper VRef (stick driver)               | Chris's Basement  | https://youtu.be/gNfbpbmkdus?t=1666 (starts 27:46) | vref stepper motor stick driver
+| Wiring                                           | Thomas Sanladerer | https://www.youtube.com/watch?v=Ta5rP8YcYaI        | wiring gauge size bend radius
